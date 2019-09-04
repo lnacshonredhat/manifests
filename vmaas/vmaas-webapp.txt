@@ -18,6 +18,7 @@ mgmt_services:latest:vmaas-webapp/glibc-2.17-292.el7
 mgmt_services:latest:vmaas-webapp/groff-1.22.2-8.el7
 mgmt_services:latest:vmaas-webapp/iso-codes-3.46-2.el7
 mgmt_services:latest:vmaas-webapp/kmod-20-25.el7
+mgmt_services:latest:vmaas-webapp/krb5-1.15.1-37.el7_7.2
 mgmt_services:latest:vmaas-webapp/libcap-2.22-10.el7
 mgmt_services:latest:vmaas-webapp/libdb-5.3.21-25.el7
 mgmt_services:latest:vmaas-webapp/libssh2-1.8.0-3.el7
@@ -98,5 +99,5 @@ mgmt_services:latest:vmaas-webapp/python-PyYAML-5.1.2.pipfile
 mgmt_services:latest:vmaas-webapp/python-schema-0.7.0.pipfile
 mgmt_services:latest:vmaas-webapp/python-six-1.12.0.pipfile
 mgmt_services:latest:vmaas-webapp/python-tornado-6.0.3.pipfile
-mgmt_services:latest:vmaas-webapp/python-virtualenv-16.7.4.pipfile
+mgmt_services:latest:vmaas-webapp/python-virtualenv-16.7.5.pipfile
 mgmt_services:latest:vmaas-webapp/python-virtualenv-clone-0.5.3.pipfile
