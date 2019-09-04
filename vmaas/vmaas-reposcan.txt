@@ -18,6 +18,7 @@ mgmt_services:latest:vmaas-reposcan/glibc-2.17-292.el7
 mgmt_services:latest:vmaas-reposcan/groff-1.22.2-8.el7
 mgmt_services:latest:vmaas-reposcan/iso-codes-3.46-2.el7
 mgmt_services:latest:vmaas-reposcan/kmod-20-25.el7
+mgmt_services:latest:vmaas-reposcan/krb5-1.15.1-37.el7_7.2
 mgmt_services:latest:vmaas-reposcan/libcap-2.22-10.el7
 mgmt_services:latest:vmaas-reposcan/libdb-5.3.21-25.el7
 mgmt_services:latest:vmaas-reposcan/libssh2-1.8.0-3.el7
@@ -96,5 +97,5 @@ mgmt_services:latest:vmaas-reposcan/python-requests-2.22.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python-six-1.12.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python-tornado-6.0.3.pipfile
 mgmt_services:latest:vmaas-reposcan/python-urllib3-1.25.3.pipfile
-mgmt_services:latest:vmaas-reposcan/python-virtualenv-16.7.4.pipfile
+mgmt_services:latest:vmaas-reposcan/python-virtualenv-16.7.5.pipfile
 mgmt_services:latest:vmaas-reposcan/python-virtualenv-clone-0.5.3.pipfile
