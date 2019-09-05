@@ -27,7 +27,7 @@ mgmt_services:latest:vmaas-webapp/perl-threads-shared-1.43-6.el7
 mgmt_services:latest:vmaas-webapp/perl-Time-HiRes-1.9725-3.el7
 mgmt_services:latest:vmaas-webapp/perl-Time-Local-1.2300-2.el7
 mgmt_services:latest:vmaas-webapp/python-rpm-macros-3-32.el7
-mgmt_services:latest:vmaas-webapp/redhat-release-server-7.6-4.el7
+mgmt_services:latest:vmaas-webapp/redhat-release-server-7.7-10.el7
 mgmt_services:latest:vmaas-webapp/redhat-rpm-config-9.1.0-88.el7
 mgmt_services:latest:vmaas-webapp/rh-python36-2.0-1.el7
 mgmt_services:latest:vmaas-webapp/rh-python36-python-3.6.3-7.el7
