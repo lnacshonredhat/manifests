@@ -38,7 +38,7 @@ mgmt_services:latest:vmaas-websocket/rsync-3.1.2-6.el7_6.1
 mgmt_services:latest:vmaas-websocket/scl-utils-20130529-19.el7
 mgmt_services:latest:vmaas-websocket/sgml-common-0.6.3-39.el7
 mgmt_services:latest:vmaas-websocket/zip-3.0-11.el7
-mgmt_services:latest:vmaas-websocket/python-certifi-2019.6.16.pipfile
+mgmt_services:latest:vmaas-websocket/python-certifi-2019.9.11.pipfile
 mgmt_services:latest:vmaas-websocket/python-pipenv-2018.11.26.pipfile
 mgmt_services:latest:vmaas-websocket/python-tornado-6.0.3.pipfile
 mgmt_services:latest:vmaas-websocket/python-virtualenv-15.1.0.pipfile
