@@ -30,7 +30,7 @@ mgmt_services:latest:vmaas-websocket/python-rpm-macros-3-32.el7
 mgmt_services:latest:vmaas-websocket/redhat-release-server-7.7-10.el7
 mgmt_services:latest:vmaas-websocket/redhat-rpm-config-9.1.0-88.el7
 mgmt_services:latest:vmaas-websocket/rh-python36-2.0-1.el7
-mgmt_services:latest:vmaas-websocket/rh-python36-python-3.6.3-7.el7
+mgmt_services:latest:vmaas-websocket/rh-python36-python-3.6.9-2.el7
 mgmt_services:latest:vmaas-websocket/rh-python36-python-pip-9.0.1-2.el7
 mgmt_services:latest:vmaas-websocket/rh-python36-python-setuptools-36.5.0-1.el7
 mgmt_services:latest:vmaas-websocket/rh-python36-python-virtualenv-15.1.0-2.el7
