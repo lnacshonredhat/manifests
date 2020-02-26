@@ -20,5 +20,5 @@ mgmt_services:latest:vmaas-websocket/python3-pipenv-2018.11.26.pipfile
 mgmt_services:latest:vmaas-websocket/python3-six-1.14.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-tornado-6.0.3.pipfile
 mgmt_services:latest:vmaas-websocket/python3-virtualenv-clone-0.5.3.pipfile
-mgmt_services:latest:vmaas-websocket/python3-virtualenv-20.0.4.pipfile
+mgmt_services:latest:vmaas-websocket/python3-virtualenv-20.0.7.pipfile
 mgmt_services:latest:vmaas-websocket/python3-zipp-3.0.0.pipfile
