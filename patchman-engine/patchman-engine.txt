@@ -1,4 +1,5 @@
 mgmt_services:latest:patchman-engine/binutils-2.30-58.el8_1.1
+mgmt_services:latest:patchman-engine/diffutils-3.6-5.el8
 mgmt_services:latest:patchman-engine/emacs-26.1-5.el8
 mgmt_services:latest:patchman-engine/fipscheck-1.5.0-4.el8
 mgmt_services:latest:patchman-engine/git-2.18.2-1.el8_1
