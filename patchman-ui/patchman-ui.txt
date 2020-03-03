@@ -1110,6 +1110,7 @@ mgmt_services:latest:patchman-ui/punycode@2.1.1
 mgmt_services:latest:patchman-ui/qs@6.5.2
 mgmt_services:latest:patchman-ui/qs@6.7.0
 mgmt_services:latest:patchman-ui/query-string@5.1.1
+mgmt_services:latest:patchman-ui/query-string@6.11.0
 mgmt_services:latest:patchman-ui/querystring-es3@0.2.1
 mgmt_services:latest:patchman-ui/querystring@0.2.0
 mgmt_services:latest:patchman-ui/querystringify@2.1.1
@@ -1263,6 +1264,7 @@ mgmt_services:latest:patchman-ui/spdx-license-ids@3.0.5
 mgmt_services:latest:patchman-ui/spdy-transport@3.0.0
 mgmt_services:latest:patchman-ui/spdy@4.0.1
 mgmt_services:latest:patchman-ui/specificity@0.4.1
+mgmt_services:latest:patchman-ui/split-on-first@1.1.0
 mgmt_services:latest:patchman-ui/split-string@3.1.0
 mgmt_services:latest:patchman-ui/sprintf-js@1.0.3
 mgmt_services:latest:patchman-ui/sshpk@1.16.1
@@ -1278,6 +1280,7 @@ mgmt_services:latest:patchman-ui/stream-each@1.2.3
 mgmt_services:latest:patchman-ui/stream-http@2.8.3
 mgmt_services:latest:patchman-ui/stream-shift@1.0.1
 mgmt_services:latest:patchman-ui/strict-uri-encode@1.1.0
+mgmt_services:latest:patchman-ui/strict-uri-encode@2.0.0
 mgmt_services:latest:patchman-ui/string-length@2.0.0
 mgmt_services:latest:patchman-ui/string-width@1.0.2
 mgmt_services:latest:patchman-ui/string-width@2.1.1
