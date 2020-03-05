@@ -15,10 +15,10 @@ mgmt_services:latest:vmaas-websocket/python3-certifi-2019.11.28.pipfile
 mgmt_services:latest:vmaas-websocket/python3-distlib-0.3.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-filelock-3.0.12.pipfile
 mgmt_services:latest:vmaas-websocket/python3-importlib-metadata-1.5.0.pipfile
-mgmt_services:latest:vmaas-websocket/python3-importlib-resources-1.0.2.pipfile
+mgmt_services:latest:vmaas-websocket/python3-importlib-resources-1.2.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-pipenv-2018.11.26.pipfile
 mgmt_services:latest:vmaas-websocket/python3-six-1.14.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-tornado-6.0.3.pipfile
 mgmt_services:latest:vmaas-websocket/python3-virtualenv-clone-0.5.3.pipfile
-mgmt_services:latest:vmaas-websocket/python3-virtualenv-20.0.7.pipfile
-mgmt_services:latest:vmaas-websocket/python3-zipp-3.0.0.pipfile
+mgmt_services:latest:vmaas-websocket/python3-virtualenv-20.0.8.pipfile
+mgmt_services:latest:vmaas-websocket/python3-zipp-3.1.0.pipfile
