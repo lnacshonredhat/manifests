@@ -691,6 +691,7 @@ mgmt_services:latest:patchman-ui/gonzales-pe@4.2.4
 mgmt_services:latest:patchman-ui/got@6.7.1
 mgmt_services:latest:patchman-ui/graceful-fs@4.2.3
 mgmt_services:latest:patchman-ui/growly@1.3.0
+mgmt_services:latest:patchman-ui/gud@1.0.0
 mgmt_services:latest:patchman-ui/gzip-size@5.1.1
 mgmt_services:latest:patchman-ui/handle-thing@2.0.0
 mgmt_services:latest:patchman-ui/handlebars@4.5.3
@@ -712,7 +713,6 @@ mgmt_services:latest:patchman-ui/hash.js@1.1.7
 mgmt_services:latest:patchman-ui/he@1.2.0
 mgmt_services:latest:patchman-ui/history@4.10.1
 mgmt_services:latest:patchman-ui/hmac-drbg@1.0.1
-mgmt_services:latest:patchman-ui/hoist-non-react-statics@2.5.5
 mgmt_services:latest:patchman-ui/hoist-non-react-statics@3.3.2
 mgmt_services:latest:patchman-ui/homedir-polyfill@1.0.3
 mgmt_services:latest:patchman-ui/hook-std@2.0.0
@@ -946,7 +946,6 @@ mgmt_services:latest:patchman-ui/loader-utils@1.2.3
 mgmt_services:latest:patchman-ui/locate-path@2.0.0
 mgmt_services:latest:patchman-ui/locate-path@3.0.0
 mgmt_services:latest:patchman-ui/locate-path@5.0.0
-mgmt_services:latest:patchman-ui/lodash-es@4.17.15
 mgmt_services:latest:patchman-ui/lodash-webpack-plugin@0.11.5
 mgmt_services:latest:patchman-ui/lodash.capitalize@4.2.1
 mgmt_services:latest:patchman-ui/lodash.escape@4.0.1
@@ -1009,6 +1008,7 @@ mgmt_services:latest:patchman-ui/mime@1.6.0
 mgmt_services:latest:patchman-ui/mime@2.4.4
 mgmt_services:latest:patchman-ui/mimic-fn@1.2.0
 mgmt_services:latest:patchman-ui/mimic-fn@2.1.0
+mgmt_services:latest:patchman-ui/mini-create-react-context@0.3.2
 mgmt_services:latest:patchman-ui/mini-css-extract-plugin@0.6.0
 mgmt_services:latest:patchman-ui/minimalistic-assert@1.0.1
 mgmt_services:latest:patchman-ui/minimalistic-crypto-utils@1.0.1
@@ -1241,13 +1241,13 @@ mgmt_services:latest:patchman-ui/range-parser@1.2.1
 mgmt_services:latest:patchman-ui/raw-body@2.4.0
 mgmt_services:latest:patchman-ui/rc@1.2.8
 mgmt_services:latest:patchman-ui/react-content-loader@3.4.2
-mgmt_services:latest:patchman-ui/react-dom@16.12.0
+mgmt_services:latest:patchman-ui/react-dom@16.13.0
 mgmt_services:latest:patchman-ui/react-is@16.12.0
 mgmt_services:latest:patchman-ui/react-redux@7.2.0
-mgmt_services:latest:patchman-ui/react-router-dom@4.3.1
-mgmt_services:latest:patchman-ui/react-router@4.3.1
+mgmt_services:latest:patchman-ui/react-router-dom@5.1.2
+mgmt_services:latest:patchman-ui/react-router@5.1.2
 mgmt_services:latest:patchman-ui/react-test-renderer@16.13.0
-mgmt_services:latest:patchman-ui/react@16.12.0
+mgmt_services:latest:patchman-ui/react@16.13.0
 mgmt_services:latest:patchman-ui/read-pkg-up@1.0.1
 mgmt_services:latest:patchman-ui/read-pkg-up@3.0.0
 mgmt_services:latest:patchman-ui/read-pkg-up@4.0.0
@@ -1267,7 +1267,7 @@ mgmt_services:latest:patchman-ui/redent@1.0.0
 mgmt_services:latest:patchman-ui/redent@2.0.0
 mgmt_services:latest:patchman-ui/redeyed@2.1.1
 mgmt_services:latest:patchman-ui/redux-promise-middleware@5.1.1
-mgmt_services:latest:patchman-ui/redux@3.7.2
+mgmt_services:latest:patchman-ui/redux@4.0.5
 mgmt_services:latest:patchman-ui/reflect.ownkeys@0.2.0
 mgmt_services:latest:patchman-ui/regenerate-unicode-properties@8.1.0
 mgmt_services:latest:patchman-ui/regenerate@1.4.0
@@ -1336,7 +1336,6 @@ mgmt_services:latest:patchman-ui/sane@4.1.0
 mgmt_services:latest:patchman-ui/sass-graph@2.2.4
 mgmt_services:latest:patchman-ui/sass-loader@7.3.1
 mgmt_services:latest:patchman-ui/sax@1.2.4
-mgmt_services:latest:patchman-ui/scheduler@0.18.0
 mgmt_services:latest:patchman-ui/scheduler@0.19.0
 mgmt_services:latest:patchman-ui/schema-utils@1.0.0
 mgmt_services:latest:patchman-ui/scss-tokenizer@0.2.3
@@ -1488,7 +1487,7 @@ mgmt_services:latest:patchman-ui/thunky@1.1.0
 mgmt_services:latest:patchman-ui/time-fix-plugin@2.0.6
 mgmt_services:latest:patchman-ui/timed-out@4.0.1
 mgmt_services:latest:patchman-ui/timers-browserify@2.0.11
-mgmt_services:latest:patchman-ui/tiny-invariant@1.0.6
+mgmt_services:latest:patchman-ui/tiny-invariant@1.1.0
 mgmt_services:latest:patchman-ui/tiny-warning@1.0.3
 mgmt_services:latest:patchman-ui/tippy.js@5.1.2
 mgmt_services:latest:patchman-ui/tmp@0.0.33
@@ -1587,7 +1586,6 @@ mgmt_services:latest:patchman-ui/vfile@3.0.1
 mgmt_services:latest:patchman-ui/vm-browserify@1.1.2
 mgmt_services:latest:patchman-ui/w3c-hr-time@1.0.1
 mgmt_services:latest:patchman-ui/walker@1.0.7
-mgmt_services:latest:patchman-ui/warning@4.0.3
 mgmt_services:latest:patchman-ui/watchpack@1.6.0
 mgmt_services:latest:patchman-ui/wbuf@1.7.3
 mgmt_services:latest:patchman-ui/webidl-conversions@4.0.2
