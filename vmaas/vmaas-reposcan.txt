@@ -1,4 +1,6 @@
 mgmt_services:latest:vmaas-reposcan/cracklib-2.9.6-15.el8
+mgmt_services:latest:vmaas-reposcan/cryptsetup-2.2.0-2.el8
+mgmt_services:latest:vmaas-reposcan/dbus-1.12.8-9.el8
 mgmt_services:latest:vmaas-reposcan/diffutils-3.6-5.el8
 mgmt_services:latest:vmaas-reposcan/emacs-26.1-5.el8
 mgmt_services:latest:vmaas-reposcan/fipscheck-1.5.0-4.el8
@@ -6,14 +8,21 @@ mgmt_services:latest:vmaas-reposcan/gdbm-1.18-1.el8
 mgmt_services:latest:vmaas-reposcan/git-2.18.2-1.el8_1
 mgmt_services:latest:vmaas-reposcan/groff-1.22.3-18.el8
 mgmt_services:latest:vmaas-reposcan/gzip-1.9-9.el8
+mgmt_services:latest:vmaas-reposcan/icu-60.3-2.el8_1
+mgmt_services:latest:vmaas-reposcan/iptables-1.8.2-16.el8
+mgmt_services:latest:vmaas-reposcan/kmod-25-13.el8
 mgmt_services:latest:vmaas-reposcan/less-530-1.el8
 mgmt_services:latest:vmaas-reposcan/libedit-3.1-23.20170329cvs.el8
 mgmt_services:latest:vmaas-reposcan/libnsl2-1.2.0-2.20180605git4a062cf.el8
+mgmt_services:latest:vmaas-reposcan/libpcap-1.9.0-3.el8
 mgmt_services:latest:vmaas-reposcan/libpwquality-1.4.0-9.el8
+mgmt_services:latest:vmaas-reposcan/libseccomp-2.4.1-1.el8
 mgmt_services:latest:vmaas-reposcan/libsecret-0.18.6-1.el8
 mgmt_services:latest:vmaas-reposcan/libsemanage-2.9-1.el8
 mgmt_services:latest:vmaas-reposcan/libtirpc-1.1.4-4.el8
 mgmt_services:latest:vmaas-reposcan/libutempter-1.1.6-14.el8
+mgmt_services:latest:vmaas-reposcan/libxkbcommon-0.8.2-1.el8
+mgmt_services:latest:vmaas-reposcan/lvm2-2.03.05-5.el8
 mgmt_services:latest:vmaas-reposcan/openssh-8.0p1-4.el8_1
 mgmt_services:latest:vmaas-reposcan/pam-1.3.1-4.el8
 mgmt_services:latest:vmaas-reposcan/perl-5.26.3-416.el8
@@ -55,6 +64,7 @@ mgmt_services:latest:vmaas-reposcan/perl-parent-0.237-1.el8
 mgmt_services:latest:vmaas-reposcan/perl-podlators-4.11-1.el8
 mgmt_services:latest:vmaas-reposcan/perl-threads-2.21-2.el8
 mgmt_services:latest:vmaas-reposcan/perl-threads-shared-1.58-2.el8
+mgmt_services:latest:vmaas-reposcan/postgresql12-12.2-2PGDG.rhel8
 mgmt_services:latest:vmaas-reposcan/python-pip-9.0.3-15.el8
 mgmt_services:latest:vmaas-reposcan/python-setuptools-39.2.0-5.el8
 mgmt_services:latest:vmaas-reposcan/python3-3.6.8-15.1.el8
@@ -63,6 +73,7 @@ mgmt_services:latest:vmaas-reposcan/redhat-release-8.1-3.3.el8
 mgmt_services:latest:vmaas-reposcan/rsync-3.1.3-6.el8
 mgmt_services:latest:vmaas-reposcan/shadow-utils-4.6-8.el8
 mgmt_services:latest:vmaas-reposcan/which-2.21-10.el8
+mgmt_services:latest:vmaas-reposcan/xkeyboard-config-2.24-3.el8
 mgmt_services:latest:vmaas-reposcan/python3-Click-7.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-Flask-1.1.1.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-GitPython-3.1.0.pipfile
@@ -102,5 +113,5 @@ mgmt_services:latest:vmaas-reposcan/python3-swagger-ui-bundle-0.0.6.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-tornado-6.0.4.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-urllib3-1.25.8.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-virtualenv-clone-0.5.3.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.13.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.14.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-zipp-3.1.0.pipfile
