@@ -50,7 +50,7 @@ mgmt_services/patchman-engine/github.com/alecthomas/units:v0.0.0-20190717042225-
 mgmt_services/patchman-engine/github.com/antihax/optional:v1.0.0
 mgmt_services/patchman-engine/github.com/apache/thrift:v0.12.0
 mgmt_services/patchman-engine/github.com/aws/aws-sdk-go:v1.17.7
-mgmt_services/patchman-engine/github.com/aws/aws-sdk-go:v1.29.33
+mgmt_services/patchman-engine/github.com/aws/aws-sdk-go:v1.29.34
 mgmt_services/patchman-engine/github.com/beorn7/perks:v0.0.0-20180321164747-3a771d992973
 mgmt_services/patchman-engine/github.com/beorn7/perks:v1.0.0
 mgmt_services/patchman-engine/github.com/beorn7/perks:v1.0.1
@@ -89,7 +89,6 @@ mgmt_services/patchman-engine/github.com/edsrzf/mmap-go:v0.0.0-20170320065105-0b
 mgmt_services/patchman-engine/github.com/envoyproxy/go-control-plane:v0.9.1-0.20191026205805-5f8ba28d4473
 mgmt_services/patchman-engine/github.com/envoyproxy/protoc-gen-validate:v0.1.0
 mgmt_services/patchman-engine/github.com/erikstmartin/go-testdb:v0.0.0-20160219214506-8d10e4a1bae5
-mgmt_services/patchman-engine/github.com/frankban/quicktest:v1.9.0
 mgmt_services/patchman-engine/github.com/fsnotify/fsnotify:v1.4.7
 mgmt_services/patchman-engine/github.com/fsouza/fake-gcs-server:v1.17.0
 mgmt_services/patchman-engine/github.com/getkin/kin-openapi:v0.3.0
@@ -214,21 +213,17 @@ mgmt_services/patchman-engine/github.com/konsorten/go-windows-terminal-sequences
 mgmt_services/patchman-engine/github.com/konsorten/go-windows-terminal-sequences:v1.0.2
 mgmt_services/patchman-engine/github.com/kr/logfmt:v0.0.0-20140226030751-b84e30acd515
 mgmt_services/patchman-engine/github.com/kr/pretty:v0.1.0
-mgmt_services/patchman-engine/github.com/kr/pretty:v0.2.0
 mgmt_services/patchman-engine/github.com/kr/pty:v1.1.1
 mgmt_services/patchman-engine/github.com/kr/pty:v1.1.8
 mgmt_services/patchman-engine/github.com/kr/text:v0.1.0
 mgmt_services/patchman-engine/github.com/leodido/go-urn:v1.1.0
-mgmt_services/patchman-engine/github.com/leodido/go-urn:v1.2.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.0.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.1.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.1.1
 mgmt_services/patchman-engine/github.com/lib/pq:v1.2.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.3.0
 mgmt_services/patchman-engine/github.com/mailru/easyjson:v0.0.0-20180823135443-60711f1a8329
-mgmt_services/patchman-engine/github.com/mailru/easyjson:v0.7.0
 mgmt_services/patchman-engine/github.com/mattn/go-colorable:v0.1.1
-mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.12
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.4
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.5
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.7
@@ -256,7 +251,6 @@ mgmt_services/patchman-engine/github.com/opencontainers/go-digest:v1.0.0-rc1
 mgmt_services/patchman-engine/github.com/opencontainers/image-spec:v1.0.1
 mgmt_services/patchman-engine/github.com/openzipkin/zipkin-go:v0.1.6
 mgmt_services/patchman-engine/github.com/pierrec/lz4:v2.0.5+incompatible
-mgmt_services/patchman-engine/github.com/pierrec/lz4:v2.3.0+incompatible
 mgmt_services/patchman-engine/github.com/pkg/errors:v0.8.0
 mgmt_services/patchman-engine/github.com/pkg/errors:v0.8.1
 mgmt_services/patchman-engine/github.com/pkg/errors:v0.9.1
@@ -425,7 +419,6 @@ mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20191001151750-bb3f8db39f2
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20191204072324-ce4227a45e2e
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20191228213918-04cbcbbfeed8
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200113162924-86b910548bc1
-mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200116001909-b77594299b42
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200122134326-e047566fdf82
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200124204421-9fbb57f87de9
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200212091648-12a6c2dcc1e4
