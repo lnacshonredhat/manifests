@@ -217,6 +217,7 @@ mgmt_services/patchman-engine/github.com/kr/pty:v1.1.1
 mgmt_services/patchman-engine/github.com/kr/pty:v1.1.8
 mgmt_services/patchman-engine/github.com/kr/text:v0.1.0
 mgmt_services/patchman-engine/github.com/leodido/go-urn:v1.1.0
+mgmt_services/patchman-engine/github.com/lestrrat-go/backoff:v1.0.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.0.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.1.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.1.1
