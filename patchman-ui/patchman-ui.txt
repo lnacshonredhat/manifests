@@ -101,6 +101,7 @@ mgmt_services:latest:patchman-ui/@babel/preset-env@7.8.7
 mgmt_services:latest:patchman-ui/@babel/preset-flow@7.8.3
 mgmt_services:latest:patchman-ui/@babel/preset-react@7.8.3
 mgmt_services:latest:patchman-ui/@babel/runtime@7.8.7
+mgmt_services:latest:patchman-ui/@babel/runtime@7.9.2
 mgmt_services:latest:patchman-ui/@babel/template@7.7.4
 mgmt_services:latest:patchman-ui/@babel/template@7.8.3
 mgmt_services:latest:patchman-ui/@babel/template@7.8.6
@@ -1243,6 +1244,7 @@ mgmt_services:latest:patchman-ui/rc@1.2.8
 mgmt_services:latest:patchman-ui/react-content-loader@3.4.2
 mgmt_services:latest:patchman-ui/react-dom@16.13.0
 mgmt_services:latest:patchman-ui/react-is@16.12.0
+mgmt_services:latest:patchman-ui/react-is@16.13.1
 mgmt_services:latest:patchman-ui/react-redux@7.2.0
 mgmt_services:latest:patchman-ui/react-router-dom@5.1.2
 mgmt_services:latest:patchman-ui/react-router@5.1.2
@@ -1272,6 +1274,7 @@ mgmt_services:latest:patchman-ui/reflect.ownkeys@0.2.0
 mgmt_services:latest:patchman-ui/regenerate-unicode-properties@8.1.0
 mgmt_services:latest:patchman-ui/regenerate@1.4.0
 mgmt_services:latest:patchman-ui/regenerator-runtime@0.13.4
+mgmt_services:latest:patchman-ui/regenerator-runtime@0.13.5
 mgmt_services:latest:patchman-ui/regenerator-transform@0.14.2
 mgmt_services:latest:patchman-ui/regex-not@1.0.2
 mgmt_services:latest:patchman-ui/regexp.prototype.flags@1.3.0
