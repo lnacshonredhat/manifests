@@ -72,6 +72,7 @@ mgmt_services:latest:vmaas-reposcan/python36-3.6.8-2.module+el8.1.0+3334+5cb623d
 mgmt_services:latest:vmaas-reposcan/redhat-release-8.1-3.3.el8
 mgmt_services:latest:vmaas-reposcan/rsync-3.1.3-6.el8
 mgmt_services:latest:vmaas-reposcan/shadow-utils-4.6-8.el8
+mgmt_services:latest:vmaas-reposcan/systemd-239-18.el8_1.5
 mgmt_services:latest:vmaas-reposcan/which-2.21-10.el8
 mgmt_services:latest:vmaas-reposcan/xkeyboard-config-2.24-3.el8
 mgmt_services:latest:vmaas-reposcan/python3-Flask-1.1.1.pipfile
@@ -113,5 +114,5 @@ mgmt_services:latest:vmaas-reposcan/python3-swagger-ui-bundle-0.0.6.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-tornado-6.0.4.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-urllib3-1.25.8.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-virtualenv-clone-0.5.4.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.15.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.16.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-zipp-3.1.0.pipfile
