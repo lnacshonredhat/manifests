@@ -114,5 +114,5 @@ mgmt_services:latest:vmaas-reposcan/python3-swagger-ui-bundle-0.0.6.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-tornado-6.0.4.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-urllib3-1.25.8.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-virtualenv-clone-0.5.4.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.16.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-virtualenv-20.0.18.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-zipp-3.1.0.pipfile
