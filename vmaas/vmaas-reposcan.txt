@@ -5,7 +5,7 @@ mgmt_services:latest:vmaas-reposcan/diffutils-3.6-5.el8
 mgmt_services:latest:vmaas-reposcan/emacs-26.1-5.el8
 mgmt_services:latest:vmaas-reposcan/fipscheck-1.5.0-4.el8
 mgmt_services:latest:vmaas-reposcan/gdbm-1.18-1.el8
-mgmt_services:latest:vmaas-reposcan/git-2.18.2-2.el8_1
+mgmt_services:latest:vmaas-reposcan/git-2.18.2-1.el8_1
 mgmt_services:latest:vmaas-reposcan/groff-1.22.3-18.el8
 mgmt_services:latest:vmaas-reposcan/gzip-1.9-9.el8
 mgmt_services:latest:vmaas-reposcan/icu-60.3-2.el8_1
