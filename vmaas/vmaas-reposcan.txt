@@ -5,7 +5,7 @@ mgmt_services:latest:vmaas-reposcan/diffutils-3.6-5.el8
 mgmt_services:latest:vmaas-reposcan/emacs-26.1-5.el8
 mgmt_services:latest:vmaas-reposcan/fipscheck-1.5.0-4.el8
 mgmt_services:latest:vmaas-reposcan/gdbm-1.18-1.el8
-mgmt_services:latest:vmaas-reposcan/git-2.18.2-1.el8_1
+mgmt_services:latest:vmaas-reposcan/git-2.18.2-2.el8_1
 mgmt_services:latest:vmaas-reposcan/groff-1.22.3-18.el8
 mgmt_services:latest:vmaas-reposcan/gzip-1.9-9.el8
 mgmt_services:latest:vmaas-reposcan/icu-60.3-2.el8_1
@@ -95,7 +95,7 @@ mgmt_services:latest:vmaas-reposcan/python3-filelock-3.0.12.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-gitdb-4.0.2.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-idna-2.9.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-importlib-metadata-1.5.2.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-importlib-resources-1.4.0.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-importlib-resources-1.5.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-inflection-0.3.1.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-itsdangerous-1.1.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-jsonschema-3.2.0.pipfile
