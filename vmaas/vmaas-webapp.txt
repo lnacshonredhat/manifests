@@ -12,7 +12,7 @@ mgmt_services:latest:vmaas-webapp/python3-PyYAML-5.3.1.pipfile
 mgmt_services:latest:vmaas-webapp/python3-Werkzeug-0.16.1.pipfile
 mgmt_services:latest:vmaas-webapp/python3-aiohttp-jinja2-1.1.2.pipfile
 mgmt_services:latest:vmaas-webapp/python3-aiohttp-3.6.0.pipfile
-mgmt_services:latest:vmaas-webapp/python3-appdirs-1.4.3.pipfile
+mgmt_services:latest:vmaas-webapp/python3-appdirs-1.4.4.pipfile
 mgmt_services:latest:vmaas-webapp/python3-async-timeout-3.0.1.pipfile
 mgmt_services:latest:vmaas-webapp/python3-attrs-19.3.0.pipfile
 mgmt_services:latest:vmaas-webapp/python3-certifi-2020.4.5.1.pipfile
@@ -46,6 +46,6 @@ mgmt_services:latest:vmaas-webapp/python3-swagger-ui-bundle-0.0.6.pipfile
 mgmt_services:latest:vmaas-webapp/python3-typing-extensions-3.7.4.2.pipfile
 mgmt_services:latest:vmaas-webapp/python3-urllib3-1.25.9.pipfile
 mgmt_services:latest:vmaas-webapp/python3-virtualenv-clone-0.5.4.pipfile
-mgmt_services:latest:vmaas-webapp/python3-virtualenv-20.0.18.pipfile
+mgmt_services:latest:vmaas-webapp/python3-virtualenv-20.0.20.pipfile
 mgmt_services:latest:vmaas-webapp/python3-yarl-1.4.2.pipfile
 mgmt_services:latest:vmaas-webapp/python3-zipp-3.1.0.pipfile
