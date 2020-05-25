@@ -121,6 +121,7 @@ mgmt_services/patchman-engine/github.com/go-sql-driver/mysql:v1.4.0
 mgmt_services/patchman-engine/github.com/go-sql-driver/mysql:v1.4.1
 mgmt_services/patchman-engine/github.com/go-sql-driver/mysql:v1.5.0
 mgmt_services/patchman-engine/github.com/go-stack/stack:v1.8.0
+mgmt_services/patchman-engine/github.com/gocarina/gocsv:v0.0.0-20200330101823-46266ca37bd3
 mgmt_services/patchman-engine/github.com/gocql/gocql:v0.0.0-20190301043612-f6df8288f9b4
 mgmt_services/patchman-engine/github.com/gogo/protobuf:v1.1.1
 mgmt_services/patchman-engine/github.com/gogo/protobuf:v1.2.0
