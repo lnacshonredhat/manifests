@@ -34,7 +34,7 @@ mgmt_services:latest:vmaas-webapp/python3-jsonschema-2.6.0.pipfile
 mgmt_services:latest:vmaas-webapp/python3-multidict-4.7.5.pipfile
 mgmt_services:latest:vmaas-webapp/python3-natsort-7.0.1.pipfile
 mgmt_services:latest:vmaas-webapp/python3-openapi-spec-validator-0.2.8.pipfile
-mgmt_services:latest:vmaas-webapp/python3-pipenv-2018.11.26.pipfile
+mgmt_services:latest:vmaas-webapp/python3-pipenv-2020.6.2.pipfile
 mgmt_services:latest:vmaas-webapp/python3-prometheus-client-0.7.1.pipfile
 mgmt_services:latest:vmaas-webapp/python3-psycopg2-binary-2.8.3.pipfile
 mgmt_services:latest:vmaas-webapp/python3-python-dateutil-2.8.0.pipfile
