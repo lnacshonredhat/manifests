@@ -93,6 +93,7 @@ mgmt_services/patch/patchman-ui/babel-plugin-jest-hoist24.9.0
 mgmt_services/patch/patchman-ui/babel-plugin-lodash3.3.4
 mgmt_services/patch/patchman-ui/babel-plugin-macros2.8.0
 mgmt_services/patch/patchman-ui/babel-plugin-syntax-jsx6.18.0
+mgmt_services/patch/patchman-ui/babel-plugin-transform-imports2.0.0
 mgmt_services/patch/patchman-ui/babel-preset-jest24.9.0
 mgmt_services/patch/patchman-ui/babel/code-frame7.8.3
 mgmt_services/patch/patchman-ui/babel/compat-data7.9.6
@@ -413,7 +414,9 @@ mgmt_services/patch/patchman-ui/domelementtype1.3.1
 mgmt_services/patch/patchman-ui/domelementtype2.0.1
 mgmt_services/patch/patchman-ui/domexception1.0.1
 mgmt_services/patch/patchman-ui/domhandler2.4.2
+mgmt_services/patch/patchman-ui/domhandler3.0.0
 mgmt_services/patch/patchman-ui/domutils1.5.1
+mgmt_services/patch/patchman-ui/domutils2.1.0
 mgmt_services/patch/patchman-ui/dot-case3.0.3
 mgmt_services/patch/patchman-ui/dot-prop3.0.0
 mgmt_services/patch/patchman-ui/dot-prop4.2.0
@@ -630,6 +633,7 @@ mgmt_services/patch/patchman-ui/html-tokenize2.0.1
 mgmt_services/patch/patchman-ui/html-webpack-plugin3.2.0
 mgmt_services/patch/patchman-ui/html-webpack-plugin4.3.0
 mgmt_services/patch/patchman-ui/htmlparser23.10.1
+mgmt_services/patch/patchman-ui/htmlparser24.1.0
 mgmt_services/patch/patchman-ui/http-assert1.4.1
 mgmt_services/patch/patchman-ui/http-deceiver1.2.7
 mgmt_services/patch/patchman-ui/http-errors1.6.3
@@ -704,6 +708,7 @@ mgmt_services/patch/patchman-ui/is-descriptor1.0.2
 mgmt_services/patch/patchman-ui/is-directory0.3.1
 mgmt_services/patch/patchman-ui/is-extendable0.1.1
 mgmt_services/patch/patchman-ui/is-extendable1.0.1
+mgmt_services/patch/patchman-ui/is-extglob1.0.0
 mgmt_services/patch/patchman-ui/is-extglob2.1.1
 mgmt_services/patch/patchman-ui/is-finite1.1.0
 mgmt_services/patch/patchman-ui/is-fullwidth-code-point1.0.0
@@ -711,10 +716,12 @@ mgmt_services/patch/patchman-ui/is-fullwidth-code-point2.0.0
 mgmt_services/patch/patchman-ui/is-fullwidth-code-point3.0.0
 mgmt_services/patch/patchman-ui/is-generator-fn2.1.0
 mgmt_services/patch/patchman-ui/is-generator-function1.0.7
+mgmt_services/patch/patchman-ui/is-glob2.0.1
 mgmt_services/patch/patchman-ui/is-glob3.1.0
 mgmt_services/patch/patchman-ui/is-glob4.0.1
 mgmt_services/patch/patchman-ui/is-hexadecimal1.0.4
 mgmt_services/patch/patchman-ui/is-installed-globally0.1.0
+mgmt_services/patch/patchman-ui/is-invalid-path0.1.0
 mgmt_services/patch/patchman-ui/is-npm1.0.0
 mgmt_services/patch/patchman-ui/is-number-object1.0.4
 mgmt_services/patch/patchman-ui/is-number3.0.0
@@ -742,6 +749,7 @@ mgmt_services/patch/patchman-ui/is-symbol1.0.3
 mgmt_services/patch/patchman-ui/is-text-path1.0.1
 mgmt_services/patch/patchman-ui/is-typedarray1.0.0
 mgmt_services/patch/patchman-ui/is-utf80.2.1
+mgmt_services/patch/patchman-ui/is-valid-path0.1.1
 mgmt_services/patch/patchman-ui/is-whitespace-character1.0.4
 mgmt_services/patch/patchman-ui/is-windows1.0.2
 mgmt_services/patch/patchman-ui/is-word-character1.0.4
@@ -1084,10 +1092,10 @@ mgmt_services/patch/patchman-ui/path-type1.1.0
 mgmt_services/patch/patchman-ui/path-type3.0.0
 mgmt_services/patch/patchman-ui/path-type4.0.0
 mgmt_services/patch/patchman-ui/patternfly/patternfly2.71.6
-mgmt_services/patch/patchman-ui/patternfly/react-core3.158.1
+mgmt_services/patch/patchman-ui/patternfly/react-core3.158.2
 mgmt_services/patch/patchman-ui/patternfly/react-icons3.15.17
 mgmt_services/patch/patchman-ui/patternfly/react-styles3.7.14
-mgmt_services/patch/patchman-ui/patternfly/react-table2.28.47
+mgmt_services/patch/patchman-ui/patternfly/react-table2.28.49
 mgmt_services/patch/patchman-ui/patternfly/react-tokens2.8.14
 mgmt_services/patch/patchman-ui/pbkdf23.0.17
 mgmt_services/patch/patchman-ui/performance-now2.1.0
@@ -1172,7 +1180,7 @@ mgmt_services/patch/patchman-ui/randomfill1.0.4
 mgmt_services/patch/patchman-ui/range-parser1.2.1
 mgmt_services/patch/patchman-ui/raw-body2.4.0
 mgmt_services/patch/patchman-ui/rc1.2.8
-mgmt_services/patch/patchman-ui/react-content-loader3.4.2
+mgmt_services/patch/patchman-ui/react-content-loader5.0.4
 mgmt_services/patch/patchman-ui/react-dom16.13.1
 mgmt_services/patch/patchman-ui/react-dropzone9.0.0
 mgmt_services/patch/patchman-ui/react-is16.13.1
@@ -1199,10 +1207,10 @@ mgmt_services/patch/patchman-ui/redent2.0.0
 mgmt_services/patch/patchman-ui/redent3.0.0
 mgmt_services/patch/patchman-ui/redeyed2.1.1
 mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-config1.0.0
-mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-notifications1.0.4
-mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-remediations1.0.4
-mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-utilities1.0.4
-mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components1.0.25
+mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.0.1
+mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.0.1
+mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.0.1
+mgmt_services/patch/patchman-ui/redhat-cloud-services/frontend-components2.0.2
 mgmt_services/patch/patchman-ui/redux-promise-middleware5.1.1
 mgmt_services/patch/patchman-ui/redux4.0.5
 mgmt_services/patch/patchman-ui/reflect.ownkeys0.2.0
@@ -1268,6 +1276,7 @@ mgmt_services/patch/patchman-ui/safe-buffer5.2.1
 mgmt_services/patch/patchman-ui/safe-regex1.1.0
 mgmt_services/patch/patchman-ui/safer-buffer2.1.2
 mgmt_services/patch/patchman-ui/sane4.1.0
+mgmt_services/patch/patchman-ui/sanitize-html1.26.0
 mgmt_services/patch/patchman-ui/sass-graph2.2.5
 mgmt_services/patch/patchman-ui/sass-loader7.3.1
 mgmt_services/patch/patchman-ui/sax1.2.4
@@ -1294,12 +1303,12 @@ mgmt_services/patch/patchman-ui/semver6.3.0
 mgmt_services/patch/patchman-ui/semver7.0.0
 mgmt_services/patch/patchman-ui/semver7.3.2
 mgmt_services/patch/patchman-ui/send0.17.1
-mgmt_services/patch/patchman-ui/sentry/browser5.15.5
-mgmt_services/patch/patchman-ui/sentry/core5.15.5
-mgmt_services/patch/patchman-ui/sentry/hub5.15.5
-mgmt_services/patch/patchman-ui/sentry/minimal5.15.5
-mgmt_services/patch/patchman-ui/sentry/types5.15.5
-mgmt_services/patch/patchman-ui/sentry/utils5.15.5
+mgmt_services/patch/patchman-ui/sentry/browser5.16.1
+mgmt_services/patch/patchman-ui/sentry/core5.16.1
+mgmt_services/patch/patchman-ui/sentry/hub5.16.1
+mgmt_services/patch/patchman-ui/sentry/minimal5.16.1
+mgmt_services/patch/patchman-ui/sentry/types5.16.1
+mgmt_services/patch/patchman-ui/sentry/utils5.16.1
 mgmt_services/patch/patchman-ui/serialize-javascript2.1.2
 mgmt_services/patch/patchman-ui/serve-index1.9.1
 mgmt_services/patch/patchman-ui/serve-static1.14.1
@@ -1355,6 +1364,7 @@ mgmt_services/patch/patchman-ui/split1.0.1
 mgmt_services/patch/patchman-ui/split21.0.0
 mgmt_services/patch/patchman-ui/split22.2.0
 mgmt_services/patch/patchman-ui/sprintf-js1.0.3
+mgmt_services/patch/patchman-ui/srcset2.0.1
 mgmt_services/patch/patchman-ui/sshpk1.16.1
 mgmt_services/patch/patchman-ui/ssri6.0.1
 mgmt_services/patch/patchman-ui/stack-utils1.0.2
