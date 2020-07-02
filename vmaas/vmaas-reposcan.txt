@@ -83,12 +83,12 @@ mgmt_services:latest:vmaas-reposcan/python3-click-7.1.2.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-clickclick-1.2.2.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-connexion-2.6.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-cryptography-2.9.2.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-distlib-0.3.0.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-distlib-0.3.1.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-filelock-3.0.12.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-gitdb-4.0.4.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-idna-2.9.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-importlib-metadata-1.6.0.pipfile
-mgmt_services:latest:vmaas-reposcan/python3-importlib-resources-2.0.1.pipfile
+mgmt_services:latest:vmaas-reposcan/python3-importlib-resources-3.0.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-inflection-0.4.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-itsdangerous-1.1.0.pipfile
 mgmt_services:latest:vmaas-reposcan/python3-jsonschema-3.2.0.pipfile
