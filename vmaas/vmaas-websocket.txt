@@ -6,10 +6,10 @@ mgmt_services:latest:vmaas-websocket/shadow-utils-4.6-8.el8
 mgmt_services:latest:vmaas-websocket/which-2.21-12.el8
 mgmt_services:latest:vmaas-websocket/python3-appdirs-1.4.4.pipfile
 mgmt_services:latest:vmaas-websocket/python3-certifi-2020.6.20.pipfile
-mgmt_services:latest:vmaas-websocket/python3-distlib-0.3.0.pipfile
+mgmt_services:latest:vmaas-websocket/python3-distlib-0.3.1.pipfile
 mgmt_services:latest:vmaas-websocket/python3-filelock-3.0.12.pipfile
-mgmt_services:latest:vmaas-websocket/python3-importlib-metadata-1.6.1.pipfile
-mgmt_services:latest:vmaas-websocket/python3-importlib-resources-2.0.1.pipfile
+mgmt_services:latest:vmaas-websocket/python3-importlib-metadata-1.7.0.pipfile
+mgmt_services:latest:vmaas-websocket/python3-importlib-resources-3.0.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-pipenv-2020.6.2.pipfile
 mgmt_services:latest:vmaas-websocket/python3-six-1.15.0.pipfile
 mgmt_services:latest:vmaas-websocket/python3-tornado-6.0.4.pipfile
